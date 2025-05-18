@@ -1,0 +1,61 @@
+.folha-container {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 6px;
+}
+
+.topo-formulario input {
+  margin-right: 10px;
+  padding: 4px;
+}
+
+.dados-funcionario p {
+  margin: 5px 0;
+}
+
+.botoes-secundarios button {
+  margin-right: 10px;
+  padding: 5px 10px;
+}
+
+.tabela-rubricas {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.tabela-rubricas th,
+.tabela-rubricas td {
+  border: 1px solid #ccc;
+  padding: 5px;
+  text-align: left;
+}
+
+.resumo-pagamento {
+  margin-top: 15px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+  float: right;
+}
+
+.acoes-formulario {
+  margin-top: 30px;
+}
+
+button.verde {
+  background-color: #4CAF50;
+  color: white;
+  margin-right: 5px;
+}
+
+button.vermelho {
+  background-color: #f44336;
+  color: white;
+  margin-right: 5px;
+}
+
+button.azul {
+  background-color: #03A9F4;
+  color: white;
+}
